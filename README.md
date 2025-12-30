@@ -10,7 +10,7 @@ https://chickenhat.itch.io/kura5-bonds-of-the-undying
 
 https://www.nirsoft.net/utils/run_as_date.html
 
-Copy the Kura5 game files into the Data folder and copy RunAsDate into the same folder. Copy the entire Files folder into Kura5_Data inside the Data folder.
+Extract the zip and use the Main folder as your base. Copy the Kura5 game files into the Data folder and copy RunAsDate into the same folder. Copy the entire Files folder from the zip into Kura5_Data inside the Data folder.
 
 Folder structure:
 ```
